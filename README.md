@@ -23,7 +23,7 @@
   <a href = "mailto:jonathan.jpere@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.reddit.com/user/monstrinhodopantano"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
     
-    ![Snake animation](https://github.com/JonathanJPereira/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/JonathanJPereira/JonathanJPereira/blob/output/github-contribution-grid-snake.svg)
   </div>
 
   
